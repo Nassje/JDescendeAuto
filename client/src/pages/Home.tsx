@@ -10,6 +10,7 @@ import ConsignmentSection from "@/components/home/ConsignmentSection";
 import WarrantySection from "@/components/home/WarrantySection";
 import AboutSection from "@/components/home/AboutSection";
 import ContactSection from "@/components/home/ContactSection";
+import FAQSection from "@/components/home/FAQSection";
 
 const Home = () => {
   // Implement smooth scrolling for anchor links
@@ -51,6 +52,7 @@ const Home = () => {
         <ConsignmentSection />
         <WarrantySection />
         <AboutSection />
+        <FAQSection />    
         <ContactSection />
       </main>
       
