@@ -9,7 +9,7 @@
   <!-- Homepage - HOOGSTE PRIORITEIT -->
   <url>
     <loc>https://autobedrijfdescende.nl/</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -22,7 +22,7 @@
   <!-- Autoreparatie & APK - SUPER BELANGRIJK -->
   <url>
     <loc>https://autobedrijfdescende.nl/#reparatie</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -30,7 +30,7 @@
   <!-- Autodemontage - JULLIE USP! -->
   <url>
     <loc>https://autobedrijfdescende.nl/#diensten</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -38,7 +38,7 @@
   <!-- Auto's / Occasions -->
   <url>
     <loc>https://autobedrijfdescende.nl/#autos</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -46,7 +46,7 @@
   <!-- Auto Onderdelen -->
   <url>
     <loc>https://autobedrijfdescende.nl/#onderdelen</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -54,7 +54,7 @@
   <!-- Garantie Pakketten -->
   <url>
     <loc>https://autobedrijfdescende.nl/#garantie</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -62,7 +62,7 @@
   <!-- Consignatie -->
   <url>
     <loc>https://autobedrijfdescende.nl/#consignatie</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -70,7 +70,7 @@
   <!-- Over Ons -->
   <url>
     <loc>https://autobedrijfdescende.nl/#over-ons</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -78,7 +78,7 @@
   <!-- Contact - Belangrijk voor lokale SEO -->
   <url>
     <loc>https://autobedrijfdescende.nl/#contact</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -87,7 +87,7 @@
   <!-- Autoreparatie Kampen -->
   <url>
     <loc>https://autobedrijfdescende.nl/?service=autoreparatie-kampen</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -95,7 +95,7 @@
   <!-- APK Kampen -->
   <url>
     <loc>https://autobedrijfdescende.nl/?service=apk-kampen</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -103,7 +103,7 @@
   <!-- Autodemontage Kampen -->
   <url>
     <loc>https://autobedrijfdescende.nl/?service=autodemontage-kampen</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -111,7 +111,7 @@
   <!-- Autosloperij Kampen -->
   <url>
     <loc>https://autobedrijfdescende.nl/?service=autosloperij-kampen</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -119,25 +119,8 @@
   <!-- Auto Inkoop Kampen -->
   <url>
     <loc>https://autobedrijfdescende.nl/?service=auto-inkoop-kampen</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  
-  <!-- Externe belangrijke links -->
-  <!-- Marktplaats profiel -->
-  <url>
-    <loc>https://www.marktplaats.nl/u/j-descende-handelsonderneming/43749699/</loc>
-    <lastmod>2024-01-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <!-- YasParts -->
-  <url>
-    <loc>https://www.yasparts.nl</loc>
-    <lastmod>2024-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
 </urlset>
