@@ -1,0 +1,73 @@
+# Robots.txt voor Autobedrijf Descende
+# DE autospecialist van Kampen - Autoreparatie, APK & Autodemontage
+# https://autobedrijfdescende.nl
+
+# Alle zoekmachines zijn WELKOM!
+User-agent: *
+Allow: /
+Crawl-delay: 1
+
+# Google - VIP behandeling! 
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+# Google, index ALLES zo snel mogelijk!
+
+# Google Afbeeldingen - We hebben mooie auto foto's!
+User-agent: Googlebot-Image
+Allow: /
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+
+# Bing - Ook welkom!
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 2
+
+# Nederlandse zoekmachines
+User-agent: Seekbot
+Allow: /
+
+# Facebook & Social Media
+User-agent: facebookexternalhit
+Allow: /
+User-agent: Twitterbot
+Allow: /
+User-agent: LinkedInBot
+Allow: /
+User-agent: WhatsApp
+Allow: /
+
+# Blokkeer spam bots
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+
+# Speciale instructies voor belangrijke pagina's
+# Autoreparatie & APK - SUPER BELANGRIJK!
+User-agent: *
+Allow: /#reparatie
+Allow: /#diensten
+Allow: /#contact
+
+# Sitemap locaties - HEEL BELANGRIJK!
+Sitemap: https://autobedrijfdescende.nl/sitemap.xml
+
+# Extra info voor zoekmachines
+# Autobedrijf Descende Kampen
+# Autoreparatie | APK Keuring | Autodemontage | Autosloperij
+# Betonstraat 17, 8263 BL Kampen
+# Tel: 038-3377638
+# Een van de weinige autosloperijen met eigen werkplaats in Kampen!
